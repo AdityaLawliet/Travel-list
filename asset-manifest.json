@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AdityaLawliet/Travel-list.git/static/css/main.10a2aefb.css",
+    "main.js": "/AdityaLawliet/Travel-list.git/static/js/main.98d27866.js",
+    "index.html": "/AdityaLawliet/Travel-list.git/index.html",
+    "main.10a2aefb.css.map": "/AdityaLawliet/Travel-list.git/static/css/main.10a2aefb.css.map",
+    "main.98d27866.js.map": "/AdityaLawliet/Travel-list.git/static/js/main.98d27866.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10a2aefb.css",
+    "static/js/main.98d27866.js"
+  ]
+}
